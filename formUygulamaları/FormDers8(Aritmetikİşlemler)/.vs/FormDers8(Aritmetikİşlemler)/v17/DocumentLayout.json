@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\stajdosyas\u0131\\formUygulamalar\u0131\\FormDers8(Aritmetik\u0130\u015Flemler)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4F8BB4-707E-4EC7-97E7-3EE63CDBFC08}|FormDers8(Aritmetik\u0130\u015Flemler)\\FormDers8(Aritmetik\u0130\u015Flemler).csproj|C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\stajdosyas\u0131\\formUygulamalar\u0131\\FormDers8(Aritmetik\u0130\u015Flemler)\\formders8(aritmetik\u0130\u015Flemler)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B4F8BB4-707E-4EC7-97E7-3EE63CDBFC08}|FormDers8(Aritmetik\u0130\u015Flemler)\\FormDers8(Aritmetik\u0130\u015Flemler).csproj|solutionrelative:formders8(aritmetik\u0130\u015Flemler)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4F8BB4-707E-4EC7-97E7-3EE63CDBFC08}|FormDers8(Aritmetik\u0130\u015Flemler)\\FormDers8(Aritmetik\u0130\u015Flemler).csproj|C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\stajdosyas\u0131\\formUygulamalar\u0131\\FormDers8(Aritmetik\u0130\u015Flemler)\\formders8(aritmetik\u0130\u015Flemler)\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1B4F8BB4-707E-4EC7-97E7-3EE63CDBFC08}|FormDers8(Aritmetik\u0130\u015Flemler)\\FormDers8(Aritmetik\u0130\u015Flemler).csproj|solutionrelative:formders8(aritmetik\u0130\u015Flemler)\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4F8BB4-707E-4EC7-97E7-3EE63CDBFC08}|FormDers8(Aritmetik\u0130\u015Flemler)\\FormDers8(Aritmetik\u0130\u015Flemler).csproj|C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\stajdosyas\u0131\\formUygulamalar\u0131\\FormDers8(Aritmetik\u0130\u015Flemler)\\formders8(aritmetik\u0130\u015Flemler)\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4F8BB4-707E-4EC7-97E7-3EE63CDBFC08}|FormDers8(Aritmetik\u0130\u015Flemler)\\FormDers8(Aritmetik\u0130\u015Flemler).csproj|solutionrelative:formders8(aritmetik\u0130\u015Flemler)\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4F8BB4-707E-4EC7-97E7-3EE63CDBFC08}|FormDers8(Aritmetik\u0130\u015Flemler)\\FormDers8(Aritmetik\u0130\u015Flemler).csproj|c:\\users\\edanu\\onedrive\\masa\u00FCst\u00FC\\stajdosyas\u0131\\formuygulamalar\u0131\\formders8(aritmetik\u0130\u015Flemler)\\formders8(aritmetik\u0130\u015Flemler)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4F8BB4-707E-4EC7-97E7-3EE63CDBFC08}|FormDers8(Aritmetik\u0130\u015Flemler)\\FormDers8(Aritmetik\u0130\u015Flemler).csproj|solutionrelative:formders8(aritmetik\u0130\u015Flemler)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\stajdosyas\u0131\\formUygulamalar\u0131\\FormDers8(Aritmetik\u0130\u015Flemler)\\FormDers8(Aritmetik\u0130\u015Flemler)\\Form1.cs",
+              "RelativeDocumentMoniker": "FormDers8(Aritmetik\u0130\u015Flemler)\\Form1.cs",
+              "ToolTip": "C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\stajdosyas\u0131\\formUygulamalar\u0131\\FormDers8(Aritmetik\u0130\u015Flemler)\\FormDers8(Aritmetik\u0130\u015Flemler)\\Form1.cs",
+              "RelativeToolTip": "FormDers8(Aritmetik\u0130\u015Flemler)\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:11:18.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\stajdosyas\u0131\\formUygulamalar\u0131\\FormDers8(Aritmetik\u0130\u015Flemler)\\FormDers8(Aritmetik\u0130\u015Flemler)\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FormDers8(Aritmetik\u0130\u015Flemler)\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\stajdosyas\u0131\\formUygulamalar\u0131\\FormDers8(Aritmetik\u0130\u015Flemler)\\FormDers8(Aritmetik\u0130\u015Flemler)\\Form1.Designer.cs",
+              "RelativeToolTip": "FormDers8(Aritmetik\u0130\u015Flemler)\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:11:17.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\stajdosyas\u0131\\formUygulamalar\u0131\\FormDers8(Aritmetik\u0130\u015Flemler)\\FormDers8(Aritmetik\u0130\u015Flemler)\\Form1.resx",
+              "RelativeDocumentMoniker": "FormDers8(Aritmetik\u0130\u015Flemler)\\Form1.resx",
+              "ToolTip": "C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\stajdosyas\u0131\\formUygulamalar\u0131\\FormDers8(Aritmetik\u0130\u015Flemler)\\FormDers8(Aritmetik\u0130\u015Flemler)\\Form1.resx",
+              "RelativeToolTip": "FormDers8(Aritmetik\u0130\u015Flemler)\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-19T16:11:17.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\stajdosyas\u0131\\formUygulamalar\u0131\\FormDers8(Aritmetik\u0130\u015Flemler)\\FormDers8(Aritmetik\u0130\u015Flemler)\\Form1.cs",
+              "RelativeDocumentMoniker": "FormDers8(Aritmetik\u0130\u015Flemler)\\Form1.cs",
+              "ToolTip": "C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\stajdosyas\u0131\\formUygulamalar\u0131\\FormDers8(Aritmetik\u0130\u015Flemler)\\FormDers8(Aritmetik\u0130\u015Flemler)\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormDers8(Aritmetik\u0130\u015Flemler)\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:12:28.122Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

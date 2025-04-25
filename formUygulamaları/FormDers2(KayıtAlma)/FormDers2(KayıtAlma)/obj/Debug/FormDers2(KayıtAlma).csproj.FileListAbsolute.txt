@@ -1,0 +1,10 @@
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers2(KayıtAlma)\FormDers2(KayıtAlma)\bin\Debug\FormDers2(KayıtAlma).exe.config
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers2(KayıtAlma)\FormDers2(KayıtAlma)\bin\Debug\FormDers2(KayıtAlma).exe
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers2(KayıtAlma)\FormDers2(KayıtAlma)\bin\Debug\FormDers2(KayıtAlma).pdb
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers2(KayıtAlma)\FormDers2(KayıtAlma)\obj\Debug\FormDers2(KayıtAlma).csproj.AssemblyReference.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers2(KayıtAlma)\FormDers2(KayıtAlma)\obj\Debug\FormDers2_KayıtAlma_.Form1.resources
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers2(KayıtAlma)\FormDers2(KayıtAlma)\obj\Debug\FormDers2_KayıtAlma_.Properties.Resources.resources
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers2(KayıtAlma)\FormDers2(KayıtAlma)\obj\Debug\FormDers2(KayıtAlma).csproj.GenerateResource.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers2(KayıtAlma)\FormDers2(KayıtAlma)\obj\Debug\FormDers2(KayıtAlma).csproj.CoreCompileInputs.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers2(KayıtAlma)\FormDers2(KayıtAlma)\obj\Debug\FormDers2(KayıtAlma).exe
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers2(KayıtAlma)\FormDers2(KayıtAlma)\obj\Debug\FormDers2(KayıtAlma).pdb

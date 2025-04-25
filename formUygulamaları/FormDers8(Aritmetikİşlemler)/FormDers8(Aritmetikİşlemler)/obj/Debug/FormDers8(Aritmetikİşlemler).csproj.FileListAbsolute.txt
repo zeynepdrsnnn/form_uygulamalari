@@ -1,0 +1,10 @@
+C:\Users\edanu\OneDrive\Masaüstü\stajdosyası\formUygulamaları\FormDers8(Aritmetikİşlemler)\FormDers8(Aritmetikİşlemler)\bin\Debug\FormDers8(Aritmetikİşlemler).exe.config
+C:\Users\edanu\OneDrive\Masaüstü\stajdosyası\formUygulamaları\FormDers8(Aritmetikİşlemler)\FormDers8(Aritmetikİşlemler)\bin\Debug\FormDers8(Aritmetikİşlemler).exe
+C:\Users\edanu\OneDrive\Masaüstü\stajdosyası\formUygulamaları\FormDers8(Aritmetikİşlemler)\FormDers8(Aritmetikİşlemler)\bin\Debug\FormDers8(Aritmetikİşlemler).pdb
+C:\Users\edanu\OneDrive\Masaüstü\stajdosyası\formUygulamaları\FormDers8(Aritmetikİşlemler)\FormDers8(Aritmetikİşlemler)\obj\Debug\FormDers8(Aritmetikİşlemler).csproj.AssemblyReference.cache
+C:\Users\edanu\OneDrive\Masaüstü\stajdosyası\formUygulamaları\FormDers8(Aritmetikİşlemler)\FormDers8(Aritmetikİşlemler)\obj\Debug\FormDers8_Aritmetikİşlemler_.Form1.resources
+C:\Users\edanu\OneDrive\Masaüstü\stajdosyası\formUygulamaları\FormDers8(Aritmetikİşlemler)\FormDers8(Aritmetikİşlemler)\obj\Debug\FormDers8_Aritmetikİşlemler_.Properties.Resources.resources
+C:\Users\edanu\OneDrive\Masaüstü\stajdosyası\formUygulamaları\FormDers8(Aritmetikİşlemler)\FormDers8(Aritmetikİşlemler)\obj\Debug\FormDers8(Aritmetikİşlemler).csproj.GenerateResource.cache
+C:\Users\edanu\OneDrive\Masaüstü\stajdosyası\formUygulamaları\FormDers8(Aritmetikİşlemler)\FormDers8(Aritmetikİşlemler)\obj\Debug\FormDers8(Aritmetikİşlemler).csproj.CoreCompileInputs.cache
+C:\Users\edanu\OneDrive\Masaüstü\stajdosyası\formUygulamaları\FormDers8(Aritmetikİşlemler)\FormDers8(Aritmetikİşlemler)\obj\Debug\FormDers8(Aritmetikİşlemler).exe
+C:\Users\edanu\OneDrive\Masaüstü\stajdosyası\formUygulamaları\FormDers8(Aritmetikİşlemler)\FormDers8(Aritmetikİşlemler)\obj\Debug\FormDers8(Aritmetikİşlemler).pdb

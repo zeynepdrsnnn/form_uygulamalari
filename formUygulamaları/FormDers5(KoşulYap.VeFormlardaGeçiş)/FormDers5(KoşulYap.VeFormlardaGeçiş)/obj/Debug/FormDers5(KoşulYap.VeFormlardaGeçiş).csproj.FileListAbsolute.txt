@@ -1,0 +1,11 @@
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers5(KoşulYap.VeFormlardaGeçiş)\FormDers5(KoşulYap.VeFormlardaGeçiş)\bin\Debug\FormDers5(KoşulYap.VeFormlardaGeçiş).exe.config
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers5(KoşulYap.VeFormlardaGeçiş)\FormDers5(KoşulYap.VeFormlardaGeçiş)\bin\Debug\FormDers5(KoşulYap.VeFormlardaGeçiş).exe
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers5(KoşulYap.VeFormlardaGeçiş)\FormDers5(KoşulYap.VeFormlardaGeçiş)\bin\Debug\FormDers5(KoşulYap.VeFormlardaGeçiş).pdb
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers5(KoşulYap.VeFormlardaGeçiş)\FormDers5(KoşulYap.VeFormlardaGeçiş)\obj\Debug\FormDers5(KoşulYap.VeFormlardaGeçiş).csproj.AssemblyReference.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers5(KoşulYap.VeFormlardaGeçiş)\FormDers5(KoşulYap.VeFormlardaGeçiş)\obj\Debug\FormDers5_KoşulYap.VeFormlardaGeçiş_.Form1.resources
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers5(KoşulYap.VeFormlardaGeçiş)\FormDers5(KoşulYap.VeFormlardaGeçiş)\obj\Debug\FormDers5_KoşulYap.VeFormlardaGeçiş_.Properties.Resources.resources
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers5(KoşulYap.VeFormlardaGeçiş)\FormDers5(KoşulYap.VeFormlardaGeçiş)\obj\Debug\FormDers5(KoşulYap.VeFormlardaGeçiş).csproj.GenerateResource.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers5(KoşulYap.VeFormlardaGeçiş)\FormDers5(KoşulYap.VeFormlardaGeçiş)\obj\Debug\FormDers5(KoşulYap.VeFormlardaGeçiş).csproj.CoreCompileInputs.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers5(KoşulYap.VeFormlardaGeçiş)\FormDers5(KoşulYap.VeFormlardaGeçiş)\obj\Debug\FormDers5(KoşulYap.VeFormlardaGeçiş).exe
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers5(KoşulYap.VeFormlardaGeçiş)\FormDers5(KoşulYap.VeFormlardaGeçiş)\obj\Debug\FormDers5(KoşulYap.VeFormlardaGeçiş).pdb
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers5(KoşulYap.VeFormlardaGeçiş)\FormDers5(KoşulYap.VeFormlardaGeçiş)\obj\Debug\FormDers5_KoşulYap.VeFormlardaGeçiş_.Form2.resources

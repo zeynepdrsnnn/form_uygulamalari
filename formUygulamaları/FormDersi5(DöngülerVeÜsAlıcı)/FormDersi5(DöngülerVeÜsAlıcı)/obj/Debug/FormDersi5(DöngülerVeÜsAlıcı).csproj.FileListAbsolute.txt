@@ -1,0 +1,11 @@
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDersi5(DöngülerVeÜsAlıcı)\FormDersi5(DöngülerVeÜsAlıcı)\obj\Debug\FormDersi5(DöngülerVeÜsAlıcı).csproj.AssemblyReference.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDersi5(DöngülerVeÜsAlıcı)\FormDersi5(DöngülerVeÜsAlıcı)\obj\Debug\FormDersi5_DöngülerVeÜsAlıcı_.Properties.Resources.resources
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDersi5(DöngülerVeÜsAlıcı)\FormDersi5(DöngülerVeÜsAlıcı)\obj\Debug\FormDersi5(DöngülerVeÜsAlıcı).csproj.GenerateResource.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDersi5(DöngülerVeÜsAlıcı)\FormDersi5(DöngülerVeÜsAlıcı)\obj\Debug\FormDersi5(DöngülerVeÜsAlıcı).csproj.CoreCompileInputs.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDersi5(DöngülerVeÜsAlıcı)\FormDersi5(DöngülerVeÜsAlıcı)\bin\Debug\FormDersi5(DöngülerVeÜsAlıcı).exe.config
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDersi5(DöngülerVeÜsAlıcı)\FormDersi5(DöngülerVeÜsAlıcı)\bin\Debug\FormDersi5(DöngülerVeÜsAlıcı).exe
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDersi5(DöngülerVeÜsAlıcı)\FormDersi5(DöngülerVeÜsAlıcı)\bin\Debug\FormDersi5(DöngülerVeÜsAlıcı).pdb
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDersi5(DöngülerVeÜsAlıcı)\FormDersi5(DöngülerVeÜsAlıcı)\obj\Debug\FormDersi5_DöngülerVeÜsAlıcı_.Form1.resources
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDersi5(DöngülerVeÜsAlıcı)\FormDersi5(DöngülerVeÜsAlıcı)\obj\Debug\FormDersi5(DöngülerVeÜsAlıcı).exe
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDersi5(DöngülerVeÜsAlıcı)\FormDersi5(DöngülerVeÜsAlıcı)\obj\Debug\FormDersi5(DöngülerVeÜsAlıcı).pdb
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDersi5(DöngülerVeÜsAlıcı)\FormDersi5(DöngülerVeÜsAlıcı)\obj\Debug\FormDersi5_DöngülerVeÜsAlıcı_.Form2.resources

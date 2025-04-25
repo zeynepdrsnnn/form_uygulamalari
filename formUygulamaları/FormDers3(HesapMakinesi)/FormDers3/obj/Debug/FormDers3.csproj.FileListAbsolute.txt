@@ -1,0 +1,10 @@
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers3(HesapMakinesi)\FormDers3\bin\Debug\FormDers3.exe.config
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers3(HesapMakinesi)\FormDers3\bin\Debug\FormDers3.exe
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers3(HesapMakinesi)\FormDers3\bin\Debug\FormDers3.pdb
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers3(HesapMakinesi)\FormDers3\obj\Debug\FormDers3.csproj.AssemblyReference.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers3(HesapMakinesi)\FormDers3\obj\Debug\FormDers3.Form1.resources
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers3(HesapMakinesi)\FormDers3\obj\Debug\FormDers3.Properties.Resources.resources
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers3(HesapMakinesi)\FormDers3\obj\Debug\FormDers3.csproj.GenerateResource.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers3(HesapMakinesi)\FormDers3\obj\Debug\FormDers3.csproj.CoreCompileInputs.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers3(HesapMakinesi)\FormDers3\obj\Debug\FormDers3.exe
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers3(HesapMakinesi)\FormDers3\obj\Debug\FormDers3.pdb

@@ -1,0 +1,10 @@
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\ÖğrenciNotSistemi\ÖğrenciNotSistemi\bin\Debug\ÖğrenciNotSistemi.exe.config
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\ÖğrenciNotSistemi\ÖğrenciNotSistemi\bin\Debug\ÖğrenciNotSistemi.exe
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\ÖğrenciNotSistemi\ÖğrenciNotSistemi\bin\Debug\ÖğrenciNotSistemi.pdb
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\ÖğrenciNotSistemi.csproj.AssemblyReference.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\ÖğrenciNotSistemi.Form1.resources
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\ÖğrenciNotSistemi.Properties.Resources.resources
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\ÖğrenciNotSistemi.csproj.GenerateResource.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\ÖğrenciNotSistemi.csproj.CoreCompileInputs.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\ÖğrenciNotSistemi.exe
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\ÖğrenciNotSistemi.pdb

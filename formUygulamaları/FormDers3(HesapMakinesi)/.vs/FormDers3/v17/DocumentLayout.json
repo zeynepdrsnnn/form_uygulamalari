@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\formUygulamalar\u0131\\FormDers3(HesapMakinesi)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C4216-C916-4717-ABA4-CD15FB0DFD3B}|FormDers3\\FormDers3.csproj|c:\\users\\edanu\\onedrive\\masa\u00FCst\u00FC\\formuygulamalar\u0131\\formders3(hesapmakinesi)\\formders3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2C4216-C916-4717-ABA4-CD15FB0DFD3B}|FormDers3\\FormDers3.csproj|solutionrelative:formders3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2C4216-C916-4717-ABA4-CD15FB0DFD3B}|FormDers3\\FormDers3.csproj|C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\formUygulamalar\u0131\\FormDers3(HesapMakinesi)\\formders3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D2C4216-C916-4717-ABA4-CD15FB0DFD3B}|FormDers3\\FormDers3.csproj|solutionrelative:formders3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\formUygulamalar\u0131\\FormDers3(HesapMakinesi)\\FormDers3\\Form1.cs",
+              "RelativeDocumentMoniker": "FormDers3\\Form1.cs",
+              "ToolTip": "C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\formUygulamalar\u0131\\FormDers3(HesapMakinesi)\\FormDers3\\Form1.cs",
+              "RelativeToolTip": "FormDers3\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:27:09.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\formUygulamalar\u0131\\FormDers3(HesapMakinesi)\\FormDers3\\Form1.cs",
+              "RelativeDocumentMoniker": "FormDers3\\Form1.cs",
+              "ToolTip": "C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\formUygulamalar\u0131\\FormDers3(HesapMakinesi)\\FormDers3\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "FormDers3\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:44:01.962Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

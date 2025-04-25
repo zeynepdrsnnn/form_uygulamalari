@@ -1,0 +1,11 @@
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers9(PersonelTablosu)\FormDers9(PersonelTablosu)\bin\Debug\FormDers9(PersonelTablosu).exe.config
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers9(PersonelTablosu)\FormDers9(PersonelTablosu)\bin\Debug\FormDers9(PersonelTablosu).exe
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers9(PersonelTablosu)\FormDers9(PersonelTablosu)\bin\Debug\FormDers9(PersonelTablosu).pdb
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers9(PersonelTablosu)\FormDers9(PersonelTablosu)\obj\Debug\FormDers9(PersonelTablosu).csproj.AssemblyReference.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers9(PersonelTablosu)\FormDers9(PersonelTablosu)\obj\Debug\FormDers9_PersonelTablosu_.Form1.resources
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers9(PersonelTablosu)\FormDers9(PersonelTablosu)\obj\Debug\FormDers9_PersonelTablosu_.Properties.Resources.resources
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers9(PersonelTablosu)\FormDers9(PersonelTablosu)\obj\Debug\FormDers9(PersonelTablosu).csproj.GenerateResource.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers9(PersonelTablosu)\FormDers9(PersonelTablosu)\obj\Debug\FormDers9(PersonelTablosu).csproj.CoreCompileInputs.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers9(PersonelTablosu)\FormDers9(PersonelTablosu)\obj\Debug\FormDers9(PersonelTablosu).exe
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers9(PersonelTablosu)\FormDers9(PersonelTablosu)\obj\Debug\FormDers9(PersonelTablosu).pdb
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\FormDers9(PersonelTablosu)\FormDers9(PersonelTablosu)\obj\Debug\FormDers9_PersonelTablosu_.Form2.resources

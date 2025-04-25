@@ -1,0 +1,10 @@
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\chart_kullanımı\chart_kullanımı\bin\Debug\chart_kullanımı.exe.config
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\chart_kullanımı\chart_kullanımı\bin\Debug\chart_kullanımı.exe
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\chart_kullanımı\chart_kullanımı\bin\Debug\chart_kullanımı.pdb
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\chart_kullanımı\chart_kullanımı\obj\Debug\chart_kullanımı.csproj.AssemblyReference.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\chart_kullanımı\chart_kullanımı\obj\Debug\chart_kullanımı.Form1.resources
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\chart_kullanımı\chart_kullanımı\obj\Debug\chart_kullanımı.Properties.Resources.resources
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\chart_kullanımı\chart_kullanımı\obj\Debug\chart_kullanımı.csproj.GenerateResource.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\chart_kullanımı\chart_kullanımı\obj\Debug\chart_kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\chart_kullanımı\chart_kullanımı\obj\Debug\chart_kullanımı.exe
+C:\Users\edanu\OneDrive\Masaüstü\formUygulamaları\chart_kullanımı\chart_kullanımı\obj\Debug\chart_kullanımı.pdb

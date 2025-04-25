@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\stajdosyas\u0131\\formUygulamalar\u0131\\FormDers7(K\u00FCt\u00FCphaneTakip)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{195D090C-F062-4A8E-B76D-9F982C68B23D}|FormDers7(K\u00FCt\u00FCphaneTakip)\\FormDers7(K\u00FCt\u00FCphaneTakip).csproj|c:\\users\\edanu\\onedrive\\masa\u00FCst\u00FC\\stajdosyas\u0131\\formuygulamalar\u0131\\formders7(k\u00FCt\u00FCphanetakip)\\formders7(k\u00FCt\u00FCphanetakip)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195D090C-F062-4A8E-B76D-9F982C68B23D}|FormDers7(K\u00FCt\u00FCphaneTakip)\\FormDers7(K\u00FCt\u00FCphaneTakip).csproj|solutionrelative:formders7(k\u00FCt\u00FCphanetakip)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\stajdosyas\u0131\\formUygulamalar\u0131\\FormDers7(K\u00FCt\u00FCphaneTakip)\\FormDers7(K\u00FCt\u00FCphaneTakip)\\Program.cs",
+              "RelativeDocumentMoniker": "FormDers7(K\u00FCt\u00FCphaneTakip)\\Program.cs",
+              "ToolTip": "C:\\Users\\edanu\\OneDrive\\Masa\u00FCst\u00FC\\stajdosyas\u0131\\formUygulamalar\u0131\\FormDers7(K\u00FCt\u00FCphaneTakip)\\FormDers7(K\u00FCt\u00FCphaneTakip)\\Program.cs",
+              "RelativeToolTip": "FormDers7(K\u00FCt\u00FCphaneTakip)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:01:02.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
